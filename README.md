@@ -38,4 +38,72 @@ Minha trajetória une a rigidez do método científico à prática educacional e
 
 | Categoria | Tecnologias / Ferramentas |
 | :--- | :--- |
-| **L
+| **Linguagens & Consultas** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) *(Em desenvolvimento)* ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) *(Em desenvolvimento)* |
+| **Business Intelligence** | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) *(Em desenvolvimento)* ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white) *(Avançado / Prática contínua)* |
+| **Controle de Versão** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
+
+</div>
+
+---
+
+## 📊 Projetos em Destaque
+
+<div align="center">
+
+| 📈 Análise de Indicadores Educacionais | 🌿 Monitoramento Ambiental & Dados | ⚡ Automação de Processos com Python |
+| :---: | :---: | :---: |
+| *Painel em Power BI (em desenvolvimento) para acompanhamento de desempenho escolar.* | *Estudos de tratamento e cruzamento de dados de relatórios ambientais com Python.* | *Scripts práticos desenvolvidos para automatizar rotinas e consolidar planilhas.* |
+| `Python` `Power BI` `SQL` | `Python` `Excel` `SQL` | `Python` `Pandas` |
+
+</div>
+
+---
+
+## 🏆 GitHub Stats & Conquistas
+
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=tokyonight&no-frame=true&margin-w=5&margin-h=5&row=1&column=3" width="48%" />
+
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=react-dark&hide_border=true&area=true" width="100%" />
+</div>
+
+---
+
+## 🐍 Snake Contribution Animation
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</div>
+
+---
+
+<div align="center">
+
+### 🌐 Conecte-se Comigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Matheus_Zambardino-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-zambardino-bb1234107)
+[![Instagram](https://img.shields.io/badge/Instagram-@m__zamba-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/m_zamba)
+
+<p align="center">
+  <i>"Em dados confiamos; todo o resto é mera opinião." — Inspirado pelo método científico.</i>
+</p>
+
+</div>
