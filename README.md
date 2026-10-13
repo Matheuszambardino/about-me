@@ -79,21 +79,6 @@ Minha trajetória une a rigidez do método científico à prática educacional e
 
 ---
 
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=react-dark&hide_border=true&area=true" width="100%" />
-</div>
-
----
-
-## 🐍 Snake Contribution Animation
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</div>
-
----
 
 <div align="center">
 
